@@ -1,0 +1,16 @@
+"WBS #","Name / Title",Type,"Start Date","End Date","Estimated Hours","Actual Hours","Percent Complete",Resources,Predecessors,Notes,Comments,"Task Color"
+1,"Lofthus frukt og saft-project",project,2020-04-30,2020-05-28,0,0,0,,,,,
+1.1,"Lofthus frukt og saft",group,2020-04-30,2020-05-28,0,0,0,,,,,
+1.1.1,"Meeting the company",task,2020-04-30,2020-04-30,0,0,0,"iselin lulu birgit rose halvorsen, author, copywriter, frontend-developer, Photographer, project manager",,,,red1
+1.1.2,"Find theme and colours",task,2020-05-01,2020-05-04,0,0,0,frontend-developer,,,,purple2
+1.1.3,Domain,task,2020-05-01,2020-05-01,0,0,0,"project manager",,,,red1
+1.1.4,"create e-mail adress for customer service",task,2020-05-01,2020-05-01,0,0,0,"project manager",,,,blue3
+1.1.5,"Make mockup for every page on the site",task,2020-05-04,2020-05-06,0,0,0,frontend-developer,,,,yellow1
+1.1.6,"Presentation of product to Lofthus frukt og saft",task,2020-05-07,2020-05-07,0,0,0,,,,,blue2
+1.1.7,"Website text",task,2020-05-04,2020-05-11,0,0,0,author,,,,orange1
+1.1.8,"Take pictures for the web-page",task,2020-05-04,2020-05-13,0,0,0,Photographer,,,,green1
+1.1.9,HTML,task,2020-05-07,2020-05-20,0,0,0,frontend-developer,,,,blue2
+1.1.10,"Create slogan for Lofthus frukt og saft",task,2020-05-08,2020-05-08,0,0,0,copywriter,,,,blue2
+1.1.11,"TEAM MEETING",task,2020-05-11,2020-05-13,0,0,0,,,,,blue2
+1.1.12,"Prices and products",task,2020-05-14,2020-05-20,0,0,0,author,,,,grey1
+1.1.13,CSS,task,2020-05-13,2020-05-28,0,0,0,frontend-developer,,,,green2
